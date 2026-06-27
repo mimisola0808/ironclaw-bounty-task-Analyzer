@@ -1,9 +1,6 @@
 ---
 name: bounty-task-analyzer
-description: Analyzes Web3 bounty task descriptions and returns a structured 
-breakdown of requirements, deliverables, action plan, and rejection risks. 
-Use when a user pastes a bounty task and wants to know exactly what to build 
-and submit to avoid rejection.
+description: Analyzes Web3 bounty task descriptions and returns a structured breakdown of requirements, deliverables, action plan, and rejection risks. Use when a user pastes a bounty task to know exactly what to build and submit.
 license: MIT
 metadata:
   author: mimisola0808
