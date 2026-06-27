@@ -36,28 +36,3 @@ Order steps logically from start to submission.
 List 3 common mistakes that lead to rejection for this type of task.
 Be direct and specific to Web3/crypto bounty contexts.
 
-## Example Input
-"Create a functional and practical custom skill using your IronClaw agent, 
-then submit: skill name, working demo, and GitHub PR link."
-
-## Example Output
-**Requirements Checklist:**
-- [ ] Build an original skill (not copied from existing sources)
-- [ ] Skill must solve a real, meaningful problem
-- [ ] GitHub link must show your own contribution
-
-**Deliverables:**
-1. Skill name + one paragraph explanation
-2. Screenshot or video of skill working
-3. GitHub repo or PR link
-
-**Action Plan:**
-1. Pick a real problem to solve
-2. Build the skill inside IronClaw
-3. Test it with real input and screenshot the output
-4. Push to GitHub and submit all three deliverables
-
-**Rejection Risks:**
-- Submitting a skill copied from DCA.space or another registry
-- Missing the GitHub proof link
-- Building a demo skill with no real-world use case
